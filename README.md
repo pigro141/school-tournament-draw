@@ -15,7 +15,7 @@ Supports **Soccer ⚽**, **Basketball 🏀**, and **Volleyball 🏐** — each w
 
 ## 🚀 Live Demo
 
-👉 [Open the app](https://YOUR-USERNAME.github.io/school-tournament-draw/)
+👉 [Open the app](https://pigro141.github.io/school-tournament-draw/)
 
 ## 🛠️ How to Use
 
